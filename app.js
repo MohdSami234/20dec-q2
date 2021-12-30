@@ -1,5 +1,5 @@
 // Assignment - 1--Q-2
-//Check whether the given chracter is a vowel or not. (Also check for capital characters).
+// Q2. Write a program to have 3 variables (all three are number) and output the highest/greatest/maximum of all three.
 
 var a = prompt("enter the first no.");
 var b = prompt("enter the second no.");
